@@ -2,7 +2,7 @@ Code for the Analysis of Long Term Behavior of C.elegans
 ========================================================
 
 These scripts are used in the analysis of long term 
-bahavioral data sets of C.elegans
+behavioral data sets of C.elegans
 
 Details can be found in our publication.
 
