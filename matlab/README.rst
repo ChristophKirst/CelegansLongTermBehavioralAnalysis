@@ -6,7 +6,7 @@ These scripts are used to analyse romaing and dwelling behavior
 
 Experimental Data
 -----------------
-Shay Stern, Cori Bargmann
+Shay Stern, Cori Bargmann,
 Lulu and Anthony Wang Laboratory of Neural Circuits and Behavior,
 The Rockefeller University, New York, USA
 
